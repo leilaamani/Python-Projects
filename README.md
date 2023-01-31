@@ -1,6 +1,6 @@
 # Python-Projects
-# get x and read 5 numbers from inpute then specify how many numbers are less than x and how meny numbers are bigger than it.
-# get x and read 5 numbers from inpute then specify how many numbers are less than x and how meny numbers are bigger than it.
+# get x and read 5 numbers from input then specify how many numbers are less than x and how many numbers are bigger than it.
+# get x and read 5 numbers from input then specify how many numbers are less than x and how many numbers are bigger than it.
 # # First approche
 # print("----------------------------------")
 # x= int(input("please enter a number:"))
